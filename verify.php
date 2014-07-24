@@ -77,7 +77,7 @@
 	mail($myemail, $subject, $message);
 
 	/* Redirect visitor to the thank you page */
-	header('Location: http://neis.local/');
+	header('Location: http://inspectnortheast.com/site/inspect-ne/');
 	exit();
 
 	
