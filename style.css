@@ -1,0 +1,59 @@
+body {
+	background-image: url("img/architectureBG.jpg");
+	background-position: center top;
+	background-attachment: fixed;
+}
+.container {
+	max-width: 900px;
+}
+.mainContent .row {
+	margin-left: -15px;
+}
+.mainContent .container {
+	padding-right: 0;
+	padding-left: 0;
+}
+#neisHeader {
+	background: url(img/blackStrip.png);
+	border-top: 5px solid #000;
+	border-bottom: 1px solid #CCC;
+	padding: 10px 0;
+	padding-bottom: 20px;
+}
+@media all and (max-width: 992px) {
+	#neisHeader {
+		background: url(img/blueStripLong.png);
+	}
+}
+.headerInfo {
+	height: 70px;
+	margin-top: 25px;
+	color: #FFF;
+	padding: 0 20px;
+	border-left: 1px solid #CCC;
+}
+
+.headerInfo .glyphicon {
+	display: block;
+	height: 70px;
+	font-size: 16px;
+	margin-right: 8px;
+	float: left;
+}
+
+.mainContent .panel {
+	margin-top: 20px;
+	border: 1px solid #000;
+}
+h1, h2, h3, h4 {
+	font-weight: bold;
+	margin-top: 0;
+	color: #002765;
+}
+
+
+#footer {
+	height: 80px;
+	padding: 20px;
+	color: #FFF;
+}
