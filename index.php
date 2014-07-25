@@ -49,7 +49,7 @@
 					                		</p>
 					                	</div>
 					                	<div class="col-sm-3">
-					                		<img src="img/profile.JPG"  class="img-thumbnail img-responsive">
+					                		<img src="img/profile.JPG"  class="profilePic img-thumbnail img-responsive">
 					                	</div>
 					                </div>
 			                		<button type="button" class="btn btn-success btn-lg center-block" data-toggle="modal" data-target="#contactModal">Contact Us</button>

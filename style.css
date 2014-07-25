@@ -51,7 +51,12 @@ h1, h2, h3, h4 {
 	color: #002765;
 }
 
-
+.profilePic {
+	width: 100%;
+	max-width: 300px;
+	display: block;
+	margin: 0 auto;
+}
 #footer {
 	height: 80px;
 	padding: 20px;
