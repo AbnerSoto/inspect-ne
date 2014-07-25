@@ -20,16 +20,28 @@
 						</div>
 						<div class="col-md-7">
 							<div class="col-md-4 headerInfo">
-								<span class="glyphicon glyphicon-envelope"></span>		
-								<p><strong>Email</strong><br />insp@gmail.com</p>
+								<div class="col-xs-1">
+									<span class="glyphicon glyphicon-envelope"></span>	
+								</div>
+								<div class="col-xs-1">	
+									<p><strong>Email</strong><br />insp@gmail.com</p>
+								</div>
 							</div>
 							<div class="col-md-4 headerInfo">
-								<span class="glyphicon glyphicon-earphone"></span>
-								<p><strong>Phone</strong><br />800-647-2744</p>
+								<div class="col-xs-1">
+									<span class="glyphicon glyphicon-earphone"></span>
+								</div>
+								<div class="col-xs-1">
+									<p><strong>Phone</strong><br />800-647-2744</p>
+								</div>
 							</div>
 							<div class="col-md-4 headerInfo">
-								<div class="glyphicon glyphicon-map-marker"></div>
-								<p><strong>Address</strong><br />44 Main Street<br />Peterborough, NH 03458</p>						
+								<div class="col-xs-1">
+									<div class="glyphicon glyphicon-map-marker"></div>
+								</div>
+								<div class="col-xs-1">
+									<p><strong>Address</strong><br />44 Main Street<br />Peterborough, NH 03458</p>
+								</div>						
 							</div>
 						</div>
 					</div>
