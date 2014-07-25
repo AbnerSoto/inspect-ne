@@ -30,9 +30,12 @@ body {
 	margin-top: 25px;
 	color: #FFF;
 	padding: 0 20px;
+	padding-right: 0;
 	border-left: 1px solid #CCC;
 }
-
+.headerInfo .col-xs-9 {
+	padding-right: 0;
+}
 .headerInfo .glyphicon {
 	display: block;
 	height: 70px;
