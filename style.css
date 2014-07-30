@@ -42,7 +42,9 @@ body {
 	margin-right: 8px;
 	float: left;
 }
-
+.col-md-8 .emailBox {
+	width: 40%;
+}
 .mainContent .panel {
 	margin-top: 20px;
 	border: 1px solid #000;

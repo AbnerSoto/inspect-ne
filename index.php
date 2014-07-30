@@ -15,11 +15,11 @@
 			<div id="neisHeader" class="nav navbar-default">
 				<div class="container">
 					<div class="row">
-						<div class="col-md-5">
+						<div class="col-md-4">
 							<img src="img/neiLogo.png" class="img-responsive">
 						</div>
-						<div class="col-md-7">
-							<div class="col-md-4 headerInfo">
+						<div class="col-md-8">
+							<div class="col-md-6 headerInfo emailBox">
 								<div class="col-xs-1">
 									<span class="glyphicon glyphicon-envelope"></span>	
 								</div>
@@ -27,7 +27,7 @@
 									<p><strong>Email</strong><br />info@inspectnortheast.com</p>
 								</div>
 							</div>
-							<div class="col-md-4 headerInfo">
+							<div class="col-md-3 headerInfo">
 								<div class="col-xs-1">
 									<span class="glyphicon glyphicon-earphone"></span>
 								</div>
