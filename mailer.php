@@ -19,7 +19,7 @@ $subject = "Someone has sent you a message";
 
 $message = "
 
-Someone has sent you a message using your contac form:
+Someone has sent you a message using your contact form:
 
 Name: $name
 Email: $email
